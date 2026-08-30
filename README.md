@@ -126,3 +126,5 @@ python scripts/sample_ca_flow.py \
 ```bash
 bash scripts/build_point_cloud_feature.sh
 ```
+/bin/bash: -c: line 2: unexpected EOF while looking for matching `''
+/bin/bash: -c: line 3: syntax error: unexpected end of file
